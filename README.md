@@ -4,7 +4,7 @@
 
 
 
-Animals_News foi desenvolvido sob os moldes de uma landing page, sendo este projeto  parte integrante da avaliação do terceiro do bootcamp da Generation. 
+Animals_News foi desenvolvido sob os moldes de uma landing page, sendo este projeto  parte integrante da avaliação do terceiro bloco do bootcamp da Generation. 
 
 Definição de Landing Page: É qualquer página na internet criada para receber estrategicamente visitantes a fim de faze-lôs gerar uma determinada conversão. Elas são bastante utilizadas no Marketing Digital e os modelos mais comuns são as páginas de vendas e as páginas de captura.
 <br>
